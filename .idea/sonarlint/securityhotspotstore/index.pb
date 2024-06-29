@@ -14,3 +14,12 @@ Esrc/main/java/com/alibou/websocket/config/WebSocketEventListener.java,6\b\6b8f
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+:
+
+Dockerfile,6\6\6651ddff6eb82c840ced7c1dddee15c6e1913dd4
+V
+&src/main/resources/static/css/main.css,d\b\dbb8bc3f6cbd44b13c1c46d88c4c4283d95fccf0
+Y
+)src/main/resources/application.properties,0\6\06f65155ec73600b9fc5c4dc2883d4bb84d8e284
+T
+$src/main/resources/static/js/main.js,b\5\b591157e3e5d8d789d1e73a106ba9bd75ffd7d8f
